@@ -1,1 +1,2 @@
-# TFG-IslasMusicales
+# Juego educativo para enseñanza de teoría musical
+Este trabajo aborda el diseño y desarrollo de un videojuego educativo para enseñanza de teoría musical a alumnos del primer ciclo de educación primaria. En primer lugar, se realizará un estudio de videojuegos existentes y herramientas de desarrollo, así como del ámbito específico del contenido del videojuego (teoría musical), acotado al rango de edad objetivo (primer ciclo de primaria). Con esa información, se diseñarán tanto las mecánicas a incluir en el juego, como la historia de este, para posteriormente realizar su desarrollo utilizando Unity. Finalmente, se realizarán algunas pruebas de aceptación y usabilidad. 
